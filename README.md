@@ -15,13 +15,7 @@ Celullar artificial life using JavaScript.
 
 ## Instalation
 
-```
-```
-
 ## Usage
-
-```
-```
 
 ## Live Preview
 
