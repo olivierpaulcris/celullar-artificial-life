@@ -4,7 +4,7 @@
 
 ## Description
 
-Celullar artificial life using JavaScript.
+Celullar Artificial Life using JavaScript, developed in 2022.
 
 ## Index
 
