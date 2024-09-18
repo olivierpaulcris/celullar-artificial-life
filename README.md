@@ -1,4 +1,4 @@
-# CELULLAR ARTIFICIAL LIFE
+# Celullar Artificial Life
 
 ![CELULLAR ARTIFICIAL LIFE](./screenshot.gif)
 
