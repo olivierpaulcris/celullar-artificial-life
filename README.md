@@ -9,13 +9,15 @@ Celullar Artificial Life using JavaScript, developed in 2022.
 ## Index
 
 - [Instalation](#instalation)
-- [Usage](#usage)
 - [Live Preview](#live-preview)
 - [License](#license)
 
 ## Instalation
 
-## Usage
+```
+git clone https://github.com/olivierpaulcris/celullar-artificial-life.git
+git checkout master
+```
 
 ## Live Preview
 
